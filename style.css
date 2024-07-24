@@ -1,0 +1,17 @@
+.page {
+    display:inline-flexbox;
+    margin: auto;
+    padding: 5;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(43, 35, 35);
+}
+button {
+    font-size: xx-large;
+    width: 75px;
+    height: 75px;
+    padding: 15px;
+    background-color: lightgray;
+    border-radius: 10px;
+    margin: 20px;
+}
